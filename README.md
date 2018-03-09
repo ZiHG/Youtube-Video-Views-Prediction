@@ -6,6 +6,10 @@ _Machine Learning/Data Mining (Regression Technique)_
 + _Tool: Python_
 
 ***
+
+![wordcloud](https://github.com/ZiHG/Youtube-Video-Views-Prediction/blob/master/cloud.png)
+
+
 ### **Data Description:**
 
 This dataset contains a list of 7,998 trending Youtube videos in the US that were uploaded during September and October of 2017. The data includes the following features:
@@ -43,7 +47,7 @@ This dataset contains a list of 7,998 trending Youtube videos in the US that wer
 
 **Data Size: 7,998 records**
 
-![wordcloud](https://github.com/ZiHG/Youtube-Video-Views-Prediction/blob/master/cloud.png)
+
 
 
 
