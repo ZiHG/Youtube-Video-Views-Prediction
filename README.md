@@ -44,3 +44,7 @@ This dataset contains a list of 7,998 trending Youtube videos in the US that wer
 
 **Data Size: 7,998 records**
 
+![alt text](https://github.com/ZiHG/Youtube-Video-Views-Prediction/blob/master/cloud.png)
+
+
+
