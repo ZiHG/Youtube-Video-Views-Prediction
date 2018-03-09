@@ -10,9 +10,12 @@ _Machine Learning/Data Mining (Regression Technique)_
 ### **Data Description:**
 
 This dataset contains a list of 7,998 trending Youtube videos in the US that were uploaded during September and October of 2017. The data includes the following features:
+
+
 ●	video_id (Common id field to both comment and video csv files) | Type: numeric
-●	Title
-○	Type: string
+
+
+●	Title | Type: string
 ●	Channel_title
 ○	Type: string
 ●	Category_id
