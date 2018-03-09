@@ -7,7 +7,6 @@ _Machine Learning/Data Mining (Regression Technique)_
 
 ***
 
-![word cloud](https://github.com/ZiHG/Youtube-Video-Views-Prediction/blob/master/cloud.png)
 
 
 ### **Data Description:**
